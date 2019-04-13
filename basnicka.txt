@@ -1,5 +1,9 @@
 Z lidové tvořivosti
+<<<<<<< HEAD
 Blbá básnička, pokus2 
+=======
+Blbá básnička pro maminky
+>>>>>>> doplneni_jmena
 Na jabloni hrušky zrají,
 na piano žáby hrají,
 kočka píše úkoly,
